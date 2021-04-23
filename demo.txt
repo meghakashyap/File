@@ -1,0 +1,4 @@
+ Python is a programming language
+ Its a global language
+ Its interpreter language 
+ its check codes line by line

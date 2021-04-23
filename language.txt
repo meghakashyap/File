@@ -1,0 +1,1 @@
+a=["python","msqual","C++","Json","Ruby"]
